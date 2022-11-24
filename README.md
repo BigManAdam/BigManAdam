@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BigManAdam
+- 👀 I’m interested in nothing
+- 🌱 I’m currently learning Java / Kotlin
+- 💞️ I’m working on MineArcade
+- 📫 How to reach me discord.gg/minearcade
