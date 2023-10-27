@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BigManAdam
 - 👀 I’m interested in nothing
 - 🌱 I’m currently learning Java / Kotlin
-- 💞️ I’m working on MineOrbit
-- 📫 How to reach me discord.gg/mineorbit
+- 💞️ I’m working on MineLimit
+- 📫 How to reach me discord.gg/minelimit
